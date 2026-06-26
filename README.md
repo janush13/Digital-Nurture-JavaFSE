@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-FSE-orange)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-green)
-![Git](https://img.shields.io/badge/Version-Control-Git-black)
 
 
 ## 📌 About This Repository
