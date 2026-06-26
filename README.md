@@ -113,7 +113,3 @@ The program focuses on backend, frontend, databases, testing, DevOps, cloud, and
 - Docker
 - Cloud Fundamentals
 
-
----
-
-# 📂 Repository Structure
